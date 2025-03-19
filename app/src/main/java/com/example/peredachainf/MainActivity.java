@@ -26,8 +26,8 @@ public class MainActivity extends AppCompatActivity {
         messageEditText = findViewById(R.id.messageEditText);
         sendEmailButton = findViewById(R.id.sendEmailButton);
 
-        final String username = "alec11nik@gmail.com";
-        final String password = "smdq jaev uzvh zgwd";
+        final String username = "l*******k@gmail.com";
+        final String password = "xxxx yyyy xxxx yyyy";
 
         sendEmailButton.setOnClickListener(new View.OnClickListener() {
             @Override
